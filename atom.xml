@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CX330</title>
+  <icon>https://blog.cx330.tw/assets/favicon.ico</icon>
+  <subtitle>Hack the planet!</subtitle>
+  <link href="https://blog.cx330.tw/atom.xml" rel="self"/>
+  
+  <link href="https://blog.cx330.tw/"/>
+  <updated>2024-11-23T22:16:55.193Z</updated>
+  <id>https://blog.cx330.tw/</id>
+  
+  <author>
+    <name>CX330</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[HTB] Locked Away Writeup 🔒</title>
+    <link href="https://blog.cx330.tw/posts/f9317c8b/"/>
+    <id>https://blog.cx330.tw/posts/f9317c8b/</id>
+    <published>2024-10-11T06:30:53.000Z</published>
+    <updated>2024-11-23T22:16:55.193Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A test! Getting onto the team is one thing, but you must prove your</summary>
+        
+      
+    
+    
+    
+    <category term="CTF" scheme="https://blog.cx330.tw/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://blog.cx330.tw/categories/HackTheBox/"/>
+    
+    
+    <category term="HTB" scheme="https://blog.cx330.tw/tags/HTB/"/>
+    
+    <category term="HackTheBox" scheme="https://blog.cx330.tw/tags/HackTheBox/"/>
+    
+    <category term="Misc" scheme="https://blog.cx330.tw/tags/Misc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Intro to Fermat&#39;s Little Theorem</title>
+    <link href="https://blog.cx330.tw/posts/e5109b78/"/>
+    <id>https://blog.cx330.tw/posts/e5109b78/</id>
+    <published>2024-10-08T13:02:24.000Z</published>
+    <updated>2024-11-23T22:16:55.203Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Prologue&quot;&gt;Prologue&lt;/h1&gt;
+&lt;p&gt;Fermat’s Little Theorem is quite often seen in the CTF contests, so let’s dive in to this article to</summary>
+        
+      
+    
+    
+    
+    <category term="StudyNotes" scheme="https://blog.cx330.tw/categories/StudyNotes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[HTB] CubeMadness1 Writeup</title>
+    <link href="https://blog.cx330.tw/posts/bd7b2870/"/>
+    <id>https://blog.cx330.tw/posts/bd7b2870/</id>
+    <published>2024-10-07T05:20:06.000Z</published>
+    <updated>2024-11-23T22:16:55.193Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Gotta collect them all.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="HackTheBox" scheme="https://blog.cx330.tw/categories/HackTheBox/"/>
+    
+    <category term="CTF" scheme="https://blog.cx330.tw/categories/HackTheBox/CTF/"/>
+    
+    
+    <category term="HTB" scheme="https://blog.cx330.tw/tags/HTB/"/>
+    
+    <category term="HackTheBox" scheme="https://blog.cx330.tw/tags/HackTheBox/"/>
+    
+    <category term="GamePwn" scheme="https://blog.cx330.tw/tags/GamePwn/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Intro to Extended Euclidean Algorithm</title>
+    <link href="https://blog.cx330.tw/posts/517a12d7/"/>
+    <id>https://blog.cx330.tw/posts/517a12d7/</id>
+    <published>2024-09-30T08:42:22.924Z</published>
+    <updated>2024-09-30T12:24:21.845Z</updated>
+    
+    
+    <summary type="html">Prologue I decided to write this to help myself to better understand the attacks in RSA or other crypto system. And if this can help you, that would be my honor! Also, all the code in this note will i...</summary>
+    
+    
+    
+    <category term="StudyNotes" scheme="https://blog.cx330.tw/categories/StudyNotes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一些關於明道辯論社的榮耀以及我的高中三年的時光碎片</title>
+    <link href="https://blog.cx330.tw/posts/ad637ee9/"/>
+    <id>https://blog.cx330.tw/posts/ad637ee9/</id>
+    <published>2024-09-23T18:15:29.000Z</published>
+    <updated>2024-11-23T22:16:55.195Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;青雲路：關於我們，明道辯論社&quot;&gt;青雲路：關於我們，明道辯論社&lt;/h1&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="LifeAndTalk" scheme="https://blog.cx330.tw/categories/LifeAndTalk/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[HTB] The Needle Writeup 🪡</title>
+    <link href="https://blog.cx330.tw/posts/b372fa96/"/>
+    <id>https://blog.cx330.tw/posts/b372fa96/</id>
+    <published>2024-09-21T20:01:01.000Z</published>
+    <updated>2024-11-23T22:16:55.194Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As a part of our SDLC process, we’ve got our firmware ready for</summary>
+        
+      
+    
+    
+    
+    <category term="CTF" scheme="https://blog.cx330.tw/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://blog.cx330.tw/categories/HackTheBox/"/>
+    
+    
+    <category term="HTB" scheme="https://blog.cx330.tw/tags/HTB/"/>
+    
+    <category term="HackTheBox" scheme="https://blog.cx330.tw/tags/HackTheBox/"/>
+    
+    <category term="Hardware" scheme="https://blog.cx330.tw/tags/Hardware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Discrete Mathematics for Muggles</title>
+    <link href="https://blog.cx330.tw/posts/6c0b3eb8/"/>
+    <id>https://blog.cx330.tw/posts/6c0b3eb8/</id>
+    <published>2024-09-19T03:39:44.000Z</published>
+    <updated>2024-11-23T22:16:55.202Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Fundamentals-of-Logic&quot;&gt;Fundamentals of  Logic&lt;/h1&gt;
+&lt;h2 id=&quot;Statements&quot;&gt;Statements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Statements (or</summary>
+        
+      
+    
+    
+    
+    <category term="StudyNotes" scheme="https://blog.cx330.tw/categories/StudyNotes/"/>
+    
+    
+    <category term="Math" scheme="https://blog.cx330.tw/tags/Math/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[HTB] Behind the Scenes Writeup</title>
+    <link href="https://blog.cx330.tw/posts/e18c2f54/"/>
+    <id>https://blog.cx330.tw/posts/e18c2f54/</id>
+    <published>2024-09-09T14:15:08.000Z</published>
+    <updated>2024-11-23T22:16:55.192Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;After struggling to secure our secret strings for a long time, we</summary>
+        
+      
+    
+    
+    
+    <category term="CTF" scheme="https://blog.cx330.tw/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://blog.cx330.tw/categories/HackTheBox/"/>
+    
+    
+    <category term="HTB" scheme="https://blog.cx330.tw/tags/HTB/"/>
+    
+    <category term="HackTheBox" scheme="https://blog.cx330.tw/tags/HackTheBox/"/>
+    
+    <category term="Reverse" scheme="https://blog.cx330.tw/tags/Reverse/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[HTB] Photon Lockdown Writeup 🚫</title>
+    <link href="https://blog.cx330.tw/posts/a42f8edc/"/>
+    <id>https://blog.cx330.tw/posts/a42f8edc/</id>
+    <published>2024-09-09T05:19:21.000Z</published>
+    <updated>2024-11-23T22:16:55.193Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We’ve located the adversary’s location and must now secure access to</summary>
+        
+      
+    
+    
+    
+    <category term="CTF" scheme="https://blog.cx330.tw/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://blog.cx330.tw/categories/HackTheBox/"/>
+    
+    
+    <category term="HTB" scheme="https://blog.cx330.tw/tags/HTB/"/>
+    
+    <category term="HackTheBox" scheme="https://blog.cx330.tw/tags/HackTheBox/"/>
+    
+    <category term="Hardware" scheme="https://blog.cx330.tw/tags/Hardware/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My Hacking Toolkit</title>
+    <link href="https://blog.cx330.tw/posts/4e56d65/"/>
+    <id>https://blog.cx330.tw/posts/4e56d65/</id>
+    <published>2024-09-03T15:50:41.047Z</published>
+    <updated>2024-09-04T08:33:10.514Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Web&quot;&gt;Web&lt;/h1&gt;
+&lt;h2 id=&quot;Temp-Server-Python&quot;&gt;Temp Server (Python)&lt;/h2&gt;
+&lt;pre class=&quot;line-numbers language-python&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Hacking" scheme="https://blog.cx330.tw/categories/Hacking/"/>
+    
+    
+    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Day 30] 最後一天刷點 Web</title>
+    <link href="https://blog.cx330.tw/posts/1759791/"/>
+    <id>https://blog.cx330.tw/posts/1759791/</id>
+    <published>2024-08-29T11:19:51.000Z</published>
+    <updated>2024-11-23T22:16:55.189Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
+&lt;p&gt;這三十天感覺還是學到挺多的，不錯不錯。希望之後比賽可以有點好成績吧！下學期跟著牛肉湯一起學習！然後今天刷的題目都是 PicoCTF 的 Web 題。&lt;/p&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="2024 CTF Training" scheme="https://blog.cx330.tw/categories/2024-CTF-Training/"/>
+    
+    
+    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    
+    <category term="CyberSec" scheme="https://blog.cx330.tw/tags/CyberSec/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Data Structures for Muggles</title>
+    <link href="https://blog.cx330.tw/posts/7f04b563/"/>
+    <id>https://blog.cx330.tw/posts/7f04b563/</id>
+    <published>2024-08-29T07:03:18.568Z</published>
+    <updated>2024-11-23T22:16:55.201Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Prologue&quot;&gt;Prologue&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;All the following example will be shown in C Programming Language or pseudo</summary>
+        
+      
+    
+    
+    
+    <category term="StudyNotes" scheme="https://blog.cx330.tw/categories/StudyNotes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[Day 28 &amp; 29] HITCON CMT 2024</title>
+    <link href="https://blog.cx330.tw/posts/60102f54/"/>
+    <id>https://blog.cx330.tw/posts/60102f54/</id>
+    <published>2024-08-26T14:05:49.000Z</published>
+    <updated>2024-11-23T22:16:55.189Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
+&lt;p&gt;[2024/08/23 &amp;amp; 2024/08/24]&lt;br&gt;
+這兩天是我第一次參加</summary>
+        
+      
+    
+    
+    
+    <category term="2024 CTF Training" scheme="https://blog.cx330.tw/categories/2024-CTF-Training/"/>
+    
+    
+    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    
+    <category term="CyberSec" scheme="https://blog.cx330.tw/tags/CyberSec/"/>
+    
+    <category term="HITCON" scheme="https://blog.cx330.tw/tags/HITCON/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Day 27] 玩玩 PicoCTF 建立信心 XD</title>
+    <link href="https://blog.cx330.tw/posts/37bd2e1d/"/>
+    <id>https://blog.cx330.tw/posts/37bd2e1d/</id>
+    <published>2024-08-20T19:48:10.000Z</published>
+    <updated>2024-11-23T22:16:55.188Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
+&lt;p&gt;八月最近有點小忙，還順便小小去玩了一下鳳中的 CTF 甄選還有中國大陸的一個比賽（我朋友邀的）。但因為沒有很認真地打+算是小比賽玩玩，就不寫 Writeup 了。&lt;/p&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="2024 CTF Training" scheme="https://blog.cx330.tw/categories/2024-CTF-Training/"/>
+    
+    
+    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    
+    <category term="CyberSec" scheme="https://blog.cx330.tw/tags/CyberSec/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Day 26] 看了看甚麼是中國剩餘定理</title>
+    <link href="https://blog.cx330.tw/posts/4640530a/"/>
+    <id>https://blog.cx330.tw/posts/4640530a/</id>
+    <published>2024-08-18T09:42:27.000Z</published>
+    <updated>2024-11-23T22:16:55.188Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
+&lt;p&gt;今天是在做 HTB 的 Baby Time Capsule 那題的時候發現要用到</summary>
+        
+      
+    
+    
+    
+    <category term="2024 CTF Training" scheme="https://blog.cx330.tw/categories/2024-CTF-Training/"/>
+    
+    
+    <category term="Crypto" scheme="https://blog.cx330.tw/tags/Crypto/"/>
+    
+    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    
+    <category term="CyberSec" scheme="https://blog.cx330.tw/tags/CyberSec/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[HTB] Baby Time Capsule Writeup 💊</title>
+    <link href="https://blog.cx330.tw/posts/67b7db12/"/>
+    <id>https://blog.cx330.tw/posts/67b7db12/</id>
+    <published>2024-08-16T15:14:06.000Z</published>
+    <updated>2024-11-23T22:16:55.192Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0x00-Challenge-Info&quot;&gt;0x00 Challenge Info&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Qubit Enterprises is a new company touting it’s propriety method of</summary>
+        
+      
+    
+    
+    
+    <category term="CTF" scheme="https://blog.cx330.tw/categories/CTF/"/>
+    
+    <category term="HackTheBox" scheme="https://blog.cx330.tw/categories/HackTheBox/"/>
+    
+    
+    <category term="HTB" scheme="https://blog.cx330.tw/tags/HTB/"/>
+    
+    <category term="Crypto" scheme="https://blog.cx330.tw/tags/Crypto/"/>
+    
+    <category term="HacktTheBox" scheme="https://blog.cx330.tw/tags/HacktTheBox/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Intro to Chinese Remainder Theorem</title>
+    <link href="https://blog.cx330.tw/posts/72a59deb/"/>
+    <id>https://blog.cx330.tw/posts/72a59deb/</id>
+    <published>2024-08-13T11:09:01.000Z</published>
+    <updated>2024-11-23T22:16:55.203Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Prologue&quot;&gt;Prologue&lt;/h1&gt;
+&lt;p&gt;Chinese Remainder Theorem (CRT) is also known as Sun zi’s Theorem. It first appear on the Chinese book</summary>
+        
+      
+    
+    
+    
+    <category term="StudyNotes" scheme="https://blog.cx330.tw/categories/StudyNotes/"/>
+    
+    
+    <category term="Math" scheme="https://blog.cx330.tw/tags/Math/"/>
+    
+    <category term="CRT" scheme="https://blog.cx330.tw/tags/CRT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Day 25] 把 SQLMap 的文檔整理了一下！</title>
+    <link href="https://blog.cx330.tw/posts/6c120880/"/>
+    <id>https://blog.cx330.tw/posts/6c120880/</id>
+    <published>2024-08-12T19:34:30.000Z</published>
+    <updated>2024-11-23T22:16:55.188Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
+&lt;p&gt;今天把之前一直說要看的 SQLMap 的文檔是大致看過了一遍，也把它整理成了我自己比較好查詢的筆記模式！同時也去 THM 練了一下 &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="2024 CTF Training" scheme="https://blog.cx330.tw/categories/2024-CTF-Training/"/>
+    
+    
+    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    
+    <category term="Web" scheme="https://blog.cx330.tw/tags/Web/"/>
+    
+    <category term="CyberSec" scheme="https://blog.cx330.tw/tags/CyberSec/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SQLMap Spellbook: Basic Usage of SQLMap</title>
+    <link href="https://blog.cx330.tw/posts/97052569/"/>
+    <id>https://blog.cx330.tw/posts/97052569/</id>
+    <published>2024-08-12T12:53:02.000Z</published>
+    <updated>2024-11-23T22:16:55.204Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Prologue&quot;&gt;Prologue&lt;/h1&gt;
+&lt;p&gt;This article is mainly intended to serve as my own cheat sheet and notes, but if it can also help you,</summary>
+        
+      
+    
+    
+    
+    <category term="StudyNotes" scheme="https://blog.cx330.tw/categories/StudyNotes/"/>
+    
+    
+    <category term="Web" scheme="https://blog.cx330.tw/tags/Web/"/>
+    
+    <category term="SQLi" scheme="https://blog.cx330.tw/tags/SQLi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[Day 24] 解個 Pwn 以外的題目</title>
+    <link href="https://blog.cx330.tw/posts/726c0654/"/>
+    <id>https://blog.cx330.tw/posts/726c0654/</id>
+    <published>2024-08-11T18:04:37.000Z</published>
+    <updated>2024-11-23T22:16:55.188Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
+&lt;p&gt;這陣子都在學 Pwn，剛好遇到要繞過 Canary 的題目不會寫，所以就想說先暫時讓 Pwn 的知識沉澱一下，先寫些別的類別的題目，過陣子再來回頭看看他。總之今天是寫了 HTB 的一題密碼學的題目。&lt;/p&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    <category term="2024 CTF Training" scheme="https://blog.cx330.tw/categories/2024-CTF-Training/"/>
+    
+    
+    <category term="CTF" scheme="https://blog.cx330.tw/tags/CTF/"/>
+    
+    <category term="CyberSec" scheme="https://blog.cx330.tw/tags/CyberSec/"/>
+    
+  </entry>
+  
+</feed>
